@@ -1,4 +1,4 @@
-package com.java.hackerearth.inputoutput;
+package com.java.hackerearth.basics.inout;
 
 /**
  * TASK
