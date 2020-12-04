@@ -1,4 +1,4 @@
-package com.java.hackerrank.basics;
+package com.java.hackerrank.dashboard.basics;
 
 import java.util.Scanner;
 

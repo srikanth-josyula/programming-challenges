@@ -1,4 +1,4 @@
-package com.java.hackerrank.basics;
+package com.java.hackerrank.dashboard.basics;
 
 public class Print {
 	public static void main(String[] args) {
